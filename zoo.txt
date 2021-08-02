@@ -1,0 +1,4 @@
+visual encodings
+graphical perception
+Protovis
+...
